@@ -3,7 +3,7 @@ import { View, Text } from "react-native"
 function DownloadSection() {
   return (
     <View>
-        <Text>Download Component</Text>
+        <Text>Download Wooww Component</Text>
     </View>
   )
 }
