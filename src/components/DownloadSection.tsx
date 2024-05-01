@@ -1,9 +1,9 @@
-import { View } from "react-native"
+import { View, Text } from "react-native"
 
 function DownloadSection() {
   return (
     <View>
-        
+        <Text>Download Component</Text>
     </View>
   )
 }
